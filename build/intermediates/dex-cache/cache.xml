@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\libs\edm.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="33a84662b373d5d14fc7898fe46d1fc76c8d2f7b">
+        <dex dex="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\build\intermediates\pre-dexed\debug\edm_2b5984db97f641f223f1cc221a34f652dad04c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\libs\rc.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="20d586d1572e168fa36f6c792d0feee16769341a">
+        <dex dex="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\build\intermediates\pre-dexed\debug\rc_e40ce33be03f4b073c384a4aea4298fd434ab073.jar" />
+    </item>
+    <item
+        jar="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41c6fb0537e463f685d3235fc50d38dc540d6ece">
+        <dex dex="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\build\intermediates\pre-dexed\debug\android-support-v13_459a3a71f78cf09c396fc6cb55bc2e60531d050f.jar" />
+    </item>
+    <item
+        jar="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\libs\knox.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68fc0f5e59c6d2dec0f88d5045276e08731f16b4">
+        <dex dex="C:\Users\c1.chan\Downloads\KioskMode_3_0\app\build\intermediates\pre-dexed\debug\knox_455c6452db8f193232246bc254756c5b6ba8ca6f.jar" />
+    </item>
+
+</items>

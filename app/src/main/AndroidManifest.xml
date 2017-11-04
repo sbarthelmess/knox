@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.samsung.knox.samples.kioskmode"
+    android:versionCode="2"
+    android:versionName="0.3" >
+
+    <uses-permission android:name="android.permission.sec.MDM_ENTERPRISE_CONTAINER" />
+    <uses-permission android:name="android.permission.sec.MDM_APP_MGMT" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.sec.MDM_KIOSK_MODE" />
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:name="com.samsung.knox.samples.kioskmode.SAApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Sakiosk" >
+        <activity
+            android:name="com.samsung.knox.samples.kioskmode.ui.AdminLicenseActivationActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="com.samsung.knox.samples.kioskmode.receivers.DeviceAdministrator"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/enterprise_device_admin" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLED" />
+                <action android:name="android.app.action.DEVICE_ADMIN_DISABLE_REQUESTED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.knox.samples.kioskmode.receivers.LicenseReceiver" >
+            <intent-filter>
+                <action android:name="edm.intent.action.license.status" />
+                <action android:name="edm.intent.action.knox_license.status" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.knox.samples.kioskmode.receivers.KIOSKReceiver" >
+            <intent-filter>
+                <action android:name="edm.intent.action.disable.kiosk.mode.result" />
+                <action android:name="edm.intent.action.enable.kiosk.mode.result" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.samsung.knox.samples.kioskmode.ui.MainActivity"
+            android:label="@string/title_activity_main"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.samsung.knox.samples.kioskmode.ui.AboutActivity"
+            android:label="@string/action_about"
+            android:parentActivityName="com.samsung.knox.samples.kioskmode.ui.AdminLicenseActivationActivity" >
+        </activity>
+    </application>
+
+</manifest>

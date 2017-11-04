@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_heading">#3d7b8a</color>
+    <color name="button_text_disabled">#66000000</color>
+    <color name="action_bar_color">#00a5c4</color>
+    <color name="screen_background">#fafafa</color>
+    <color name="white">#ffffff</color>
+    <color name="trans_white">#00ffffff</color>
+    <color name="less_trans_white">#cfffffff</color>
+    <color name="semi_trans_white">#9fffffff</color>
+    <color name="onboard_semi_trans_white">#dfffffff</color>
+    <color name="black">#000</color>
+    <color name="semi_trans_black">#df000000</color>
+    <color name="semi_trans_black_profile">#78000000</color>
+    <color name="semi_trans_branding_color">#adf05657</color>
+    <color name="drawer_list_background">#111</color>
+    <color name="drawer_background">#2e2e2e</color>
+    <color name="holo_light_gray">#f2f2f2</color>
+    <color name="grey">#585858</color>
+    <color name="pink">#F781F3</color>
+    <color name="peach">#FA5858</color>
+    <color name="purple">#642EFE</color>
+    <color name="blue">#10bcc9</color>
+    <color name="green">#10bcc9</color>
+    <color name="orange">#FF8000</color>
+    <color name="red">#B40404</color>
+    <color name="branding_color">#00a5c4</color>
+    <color name="branding_color_light">#0174DF</color>
+    <color name="branding_color_dark">#084B8A</color>
+    <color name="title">#040404</color>
+    <color name="text">#343434</color>
+    <color name="trans">#00000000</color>
+
+</resources>

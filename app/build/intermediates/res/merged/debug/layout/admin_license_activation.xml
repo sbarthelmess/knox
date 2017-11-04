@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/screen_background"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <LinearLayout
+        android:id="@+id/admin_license_activation_ll_admin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/round_rect"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/admin_license_activation_txv_admin_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/device_administration"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/admin_license_activation_btn_admin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/branding_button_selector"
+            android:onClick="onClick"
+            android:padding="10dp"
+            android:text="@string/enable_admin"
+            android:textColor="@drawable/branding_label_selector" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/admin_license_activation_ll_license"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@drawable/round_rect"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/admin_license_activation_txv_license_heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/license_activation"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="normal" />
+
+        <EditText
+            android:id="@+id/admin_license_activation_edt_elm_key"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:enabled="false"
+            android:hint="@string/enter_elm_key"
+            android:singleLine="true"
+            android:textColorHint="@android:color/darker_gray" />
+
+        <Button
+            android:id="@+id/admin_license_activation_btn_activate_elm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="12dp"
+            android:background="@drawable/branding_button_selector"
+            android:enabled="false"
+            android:onClick="onClick"
+            android:padding="10dp"
+            android:text="@string/activate_elm"
+            android:textColor="@drawable/branding_label_selector" />
+    </LinearLayout>
+
+</LinearLayout>

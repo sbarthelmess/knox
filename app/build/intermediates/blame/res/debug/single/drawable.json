@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\spinner_background_ab_sakiosk.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_grey.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\list_selector_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\tab_indicator_ab_sakiosk.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\progress_horizontal_sakiosk.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branding_rounded_button_bg_u.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\branding_rounded_button_bg_u.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branding_label_selector.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\branding_label_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_layout.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branding_button_selector.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\branding_button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_enabled.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\button_enabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_disabled.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\button_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\branding_rounded_button_bg_s.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\branding_rounded_button_bg_s.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\btn_cab_done_sakiosk.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\ab_background_textured_sakiosk.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_sakiosk.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\drawable\\selectable_background_sakiosk.xml"
+    }
+]

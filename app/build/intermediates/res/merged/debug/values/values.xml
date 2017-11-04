@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_color">#00a5c4</color>
+    <color name="black">#000</color>
+    <color name="blue">#10bcc9</color>
+    <color name="branding_color">#00a5c4</color>
+    <color name="branding_color_dark">#084B8A</color>
+    <color name="branding_color_light">#0174DF</color>
+    <color name="button_text_disabled">#66000000</color>
+    <color name="drawer_background">#2e2e2e</color>
+    <color name="drawer_list_background">#111</color>
+    <color name="green">#10bcc9</color>
+    <color name="grey">#585858</color>
+    <color name="holo_light_gray">#f2f2f2</color>
+    <color name="less_trans_white">#cfffffff</color>
+    <color name="onboard_semi_trans_white">#dfffffff</color>
+    <color name="orange">#FF8000</color>
+    <color name="peach">#FA5858</color>
+    <color name="pink">#F781F3</color>
+    <color name="purple">#642EFE</color>
+    <color name="red">#B40404</color>
+    <color name="screen_background">#fafafa</color>
+    <color name="semi_trans_black">#df000000</color>
+    <color name="semi_trans_black_profile">#78000000</color>
+    <color name="semi_trans_branding_color">#adf05657</color>
+    <color name="semi_trans_white">#9fffffff</color>
+    <color name="text">#343434</color>
+    <color name="text_heading">#3d7b8a</color>
+    <color name="title">#040404</color>
+    <color name="trans">#00000000</color>
+    <color name="trans_white">#00ffffff</color>
+    <color name="white">#ffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="SDK_version">KNOX MDM SDK ver 5.3</string>
+    <string name="action_about">About</string>
+    <string name="action_disable_admin">Disable Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="activate_elm">Activate ELM</string>
+    <string name="api_allow_air_command_mode">Allow Air Command Mode</string>
+    <string name="api_allow_air_view_mode">Allow Air View Mode</string>
+    <string name="api_allow_hardware_keys">Allow Hardware Keys</string>
+    <string name="api_allow_multi_mode">Allow Multi Mode Window</string>
+    <string name="api_allow_task_manager">Allow Task Manager</string>
+    <string name="api_clear_all_notifications">Clear All Notifications</string>
+    <string name="api_get_all_blocked_hardware_keys">Get All Blocked Hardware Keys</string>
+    <string name="api_get_hardware_key_list">Get Hardware Key List</string>
+    <string name="api_get_kiosk_home_pkg">Get KIOSK Home Package</string>
+    <string name="api_hide_nav_bar">Hide Navigation Bar</string>
+    <string name="api_hide_status_bar">Hide Status Bar</string>
+    <string name="api_hide_system_bar">Hide System Bar</string>
+    <string name="api_is_air_cmd_mode_allowed">Is Air Command Mode Allowed</string>
+    <string name="api_is_air_view_mode_allowed">Is Air View Mode Allowed</string>
+    <string name="api_is_hardware_key_allowed">Is Hardware Key Allowed</string>
+    <string name="api_is_kiosk">Is KIOSK Mode Enabled</string>
+    <string name="api_is_multi_mode_window_allowed">Is Multi Mode Window Allowed</string>
+    <string name="api_is_nav_bar_hidden">Is Navigation Bar Hidden</string>
+    <string name="api_is_status_bar_hidden">Is Status Bar Hidden</string>
+    <string name="api_is_system_bar_hidden">Is System Bar Hidden</string>
+    <string name="api_is_task_manager_allowed">Is Task Manager Allowed</string>
+    <string name="api_wipe_recents">Wipe Recent Tasks</string>
+    <string name="app_desc">This application demonstrates the use of different KIOSK Mode policies.</string>
+    <string name="app_name">KIOSK Mode Sample app</string>
+    <string name="app_name_display">KIOSK Mode Sample App</string>
+    <string name="app_version">Ver 0.1</string>
+    <string name="app_version_text">version</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="create_container">Create Container</string>
+    <string name="device_administration">Device Administration</string>
+    <string name="enable_admin">Enable Admin</string>
+    <string name="enter_custom_launcher_pkg">Please enter custom launcher package name</string>
+    <string name="enter_elm_key">Enter ELM Key</string>
+    <string name="error_kiosk_mode">Unexpected error while setting KIOSK Mode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="kiosk_disable_pre_configs">					Allow SettingsChanges = true\n
+					Allow StatusBarExpansion = true\n
+					Allow HomeKey = true\n
+					Allow AirCommand = true\n
+					Allow AirView = true\n
+					Allow MultiWindow = true\n
+					Allow SmartClip = true\n
+					Allow TaskManager = true\n
+					Hide NavigationBar = false\n
+					Hide StatusBar = false\n
+					Hide SystemBar = false\n
+					WipeRecentTasks = false\n
+					ClearAllNotifications = false</string>
+    <string name="kiosk_enable_pre_configs">					Allow SettingsChanges = false\n
+					Allow StatusBarExpansion = false\n
+					Allow HomeKey = false\n
+					Allow AirCommand = false\n
+					Allow AirView = false\n
+					Allow MultiWindow = false\n
+					Allow SmartClip = false\n
+					Allow TaskManager = false\n
+					Hide NavigationBar = true\n
+					Hide StatusBar = true\n
+					Hide SystemBar = true\n
+					WipeRecentTasks = true\n
+					ClearAllNotifications = true</string>
+    <string name="kiosk_mode_1">Enable KIOSK</string>
+    <string name="kiosk_mode_2">Enable KIOSK with predefined KIOSK settings</string>
+    <string name="kiosk_mode_3">Use custom app as home launcher</string>
+    <string name="kiosk_mode_3_package">Package name</string>
+    <string name="kiosk_mode_4">Disable KIOSK</string>
+    <string name="kiosk_mode_5">Disable KIOSK with predefined KIOSK settings</string>
+    <string name="license_activation">License Activation</string>
+    <string name="no_internet_detail_message">No internet connectivity</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main">KIOSK Mode Sample app</string>
+    <string name="title_section1">Modes</string>
+    <string name="title_section2">Restrictions</string>
+    <string name="warn_create_kiosk">Create KIOSK mode first</string>
+    <string name="warn_kiosk_created">Already in KIOSK mode</string>
+    <style name="ActionBar.Solid.Sakiosk" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_sakiosk</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_sakiosk</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_sakiosk</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sakiosk</item>
+        <item name="android:titleTextStyle">@style/ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="ActionBar.Transparent.Sakiosk" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_sakiosk</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Sakiosk</item>
+    </style>
+    <style name="ActionBarTabStyle.Sakiosk" parent="@android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_sakiosk</item>
+    </style>
+    <style name="ActionButton.CloseMode.Sakiosk" parent="@android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_sakiosk</item>
+    </style>
+    <style name="DropDownListView.Sakiosk" parent="@android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_sakiosk</item>
+    </style>
+    <style name="DropDownNav.Sakiosk" parent="@android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_sakiosk</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_sakiosk</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_sakiosk</item>
+    </style>
+    <style name="PopupMenu.Sakiosk" parent="@android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_sakiosk</item>
+    </style>
+    <style name="ProgressBar.Sakiosk" parent="@android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_sakiosk</item>
+    </style>
+    <style name="Theme.Sakiosk" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_sakiosk</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sakiosk</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sakiosk</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Sakiosk</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Sakiosk</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Sakiosk</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_sakiosk</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_sakiosk</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Sakiosk</item>
+    </style>
+    <style name="Theme.Sakiosk.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Sakiosk</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Sakiosk</item>
+    </style>
+</resources>

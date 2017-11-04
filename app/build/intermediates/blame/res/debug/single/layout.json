@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell_plain.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell_plain.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_license_activation.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\admin_license_activation.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_kiosk_restrictions.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\fragment_kiosk_restrictions.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell_header.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell_button.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell_plain_2.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell_plain_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell_button_2.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell_button_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_cell.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\list_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main_2.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\fragment_main_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_fragment_input.xml",
+        "source": "C:\\Users\\c1.chan\\Downloads\\KioskMode_3_0\\app\\src\\main\\res\\layout\\dialog_fragment_input.xml"
+    }
+]

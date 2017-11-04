@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KIOSK Mode Sample app</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_disable_admin">Disable Admin</string>
+    <string name="app_version_text">version</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_internet_detail_message">No internet connectivity</string>
+    <string name="apply">Apply</string>
+    <string name="enter_custom_launcher_pkg">Please enter custom launcher package name</string>
+
+    <!-- Admin and License activation constants -->
+
+    <string name="device_administration">Device Administration</string>
+    <string name="enable_admin">Enable Admin</string>
+    <string name="license_activation">License Activation</string>
+    <string name="enter_elm_key">Enter ELM Key</string>
+    <string name="activate_elm">Activate ELM</string>
+    <string name="create_container">Create Container</string>
+    <string name="title_activity_main">KIOSK Mode Sample app</string>
+    <string name="title_section1">Modes</string>
+    <string name="title_section2">Restrictions</string>
+    <string name="api_is_kiosk">Is KIOSK Mode Enabled</string>
+    <string name="api_get_kiosk_home_pkg">Get KIOSK Home Package</string>
+    <string name="api_hide_system_bar">Hide System Bar</string>
+    <string name="api_is_system_bar_hidden">Is System Bar Hidden</string>
+    <string name="api_wipe_recents">Wipe Recent Tasks</string>
+    <string name="api_allow_task_manager">Allow Task Manager</string>
+    <string name="api_is_task_manager_allowed">Is Task Manager Allowed</string>
+    <string name="api_get_hardware_key_list">Get Hardware Key List</string>
+    <string name="api_allow_hardware_keys">Allow Hardware Keys</string>
+    <string name="api_is_hardware_key_allowed">Is Hardware Key Allowed</string>
+    <string name="api_get_all_blocked_hardware_keys">Get All Blocked Hardware Keys</string>
+    <string name="api_hide_status_bar">Hide Status Bar</string>
+    <string name="api_is_status_bar_hidden">Is Status Bar Hidden</string>
+    <string name="api_hide_nav_bar">Hide Navigation Bar</string>
+    <string name="api_is_nav_bar_hidden">Is Navigation Bar Hidden</string>
+    <string name="api_allow_multi_mode">Allow Multi Mode Window</string>
+    <string name="api_is_multi_mode_window_allowed">Is Multi Mode Window Allowed</string>
+    <string name="api_clear_all_notifications">Clear All Notifications</string>
+    <string name="api_is_air_cmd_mode_allowed">Is Air Command Mode Allowed</string>
+    <string name="api_allow_air_command_mode">Allow Air Command Mode</string>
+    <string name="api_is_air_view_mode_allowed">Is Air View Mode Allowed</string>
+    <string name="api_allow_air_view_mode">Allow Air View Mode</string>
+    <string name="warn_kiosk_created">Already in KIOSK mode</string>
+    <string name="warn_create_kiosk">Create KIOSK mode first</string>
+    <!-- layout strings -->
+    <string name="kiosk_mode_1">Enable KIOSK</string>
+    <string name="kiosk_mode_2">Enable KIOSK with predefined KIOSK settings</string>
+    <string name="kiosk_mode_3">Use custom app as home launcher</string>
+    <string name="kiosk_mode_4">Disable KIOSK</string>
+    <string name="kiosk_mode_5">Disable KIOSK with predefined KIOSK settings</string>
+    <string name="kiosk_mode_3_package">Package name</string>
+    <string name="error_kiosk_mode">Unexpected error while setting KIOSK Mode</string>
+    <string name="kiosk_enable_pre_configs">					Allow SettingsChanges = false\n
+					Allow StatusBarExpansion = false\n
+					Allow HomeKey = false\n
+					Allow AirCommand = false\n
+					Allow AirView = false\n
+					Allow MultiWindow = false\n
+					Allow SmartClip = false\n
+					Allow TaskManager = false\n
+					Hide NavigationBar = true\n
+					Hide StatusBar = true\n
+					Hide SystemBar = true\n
+					WipeRecentTasks = true\n
+					ClearAllNotifications = true</string>
+    <string name="kiosk_disable_pre_configs">					Allow SettingsChanges = true\n
+					Allow StatusBarExpansion = true\n
+					Allow HomeKey = true\n
+					Allow AirCommand = true\n
+					Allow AirView = true\n
+					Allow MultiWindow = true\n
+					Allow SmartClip = true\n
+					Allow TaskManager = true\n
+					Hide NavigationBar = false\n
+					Hide StatusBar = false\n
+					Hide SystemBar = false\n
+					WipeRecentTasks = false\n
+					ClearAllNotifications = false</string>
+					
+    <string name="app_name_display">KIOSK Mode Sample App</string>
+    <string name="app_version">Ver 0.1</string>
+    <string name="SDK_version">KNOX MDM SDK ver 5.3</string>
+    <string name="app_desc">This application demonstrates the use of different KIOSK Mode policies.</string>
+
+</resources>
